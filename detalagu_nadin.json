@@ -3,64 +3,64 @@
   "album": "Various Singles",
   "songs": [
     {
-      "title": "Rumpang",
-      "duration": "4:20",
+      "title": "Bertaut",
+      "duration": "5:23",
       "release_year": 2018,
-      "photo": "https://i.postimg.cc/9f9mxL1N/rumpang.jpg"
+      "photo": "https://images.app.goo.gl/V31J7sPKcD1hZ3jU7"
     },
     {
       "title": "Seperti Tulang",
-      "duration": "3:45",
+      "duration": "3:26",
       "release_year": 2019,
-      "photo": "https://i.postimg.cc/V6k4gMTS/seperti-tulang.jpg"
+      "photo": "https://images.app.goo.gl/2PVQCpqYFTZ8wuJn9"
     },
     {
       "title": "Bertaut",
-      "duration": "5:10",
-      "release_year": 2019,
-      "photo": "https://i.postimg.cc/0NfY2ZPv/bertaut.jpg"
+      "duration": "5:16",
+      "release_year": 2020,
+      "photo": "https://images.app.goo.gl/rew2QVSaHXmxriNw9"
     },
     {
       "title": "Sorai",
-      "duration": "3:50",
-      "release_year": 2018,
-      "photo": "https://i.postimg.cc/xdHj1dHc/sorai.jpg"
-    },
-    {
-      "title": "Pulang",
-      "duration": "4:00",
-      "release_year": 2020,
-      "photo": "https://i.postimg.cc/TwGcw1MG/pulang.jpg"
-    },
-    {
-      "title": "Cicilan",
-      "duration": "3:30",
-      "release_year": 2020,
-      "photo": "https://i.postimg.cc/bJv43kCv/cicilan.jpg"
-    },
-    {
-      "title": "Hanya Rindu",
-      "duration": "4:15",
-      "release_year": 2017,
-      "photo": "https://i.postimg.cc/zBq8XLYc/hanya-rindu.jpg"
-    },
-    {
-      "title": "Sumpah",
-      "duration": "4:05",
-      "release_year": 2021,
-      "photo": "https://i.postimg.cc/4x5FDsyC/sumpah.jpg"
-    },
-    {
-      "title": "Selamat Jalan",
-      "duration": "3:55",
-      "release_year": 2019,
-      "photo": "https://i.postimg.cc/zB5NPS8W/selamat-jalan.jpg"
-    },
-    {
-      "title": "Seperti Yang Kau Minta",
       "duration": "4:22",
+      "release_year": 2019,
+      "photo": "https://images.app.goo.gl/CVoAQY6Kubvap9DD8"
+    },
+    {
+      "title": "Taruh",
+      "duration": "4:09",
       "release_year": 2020,
-      "photo": "https://i.postimg.cc/nL9dGWD9/seperti-yang-kau-minta.jpg"
+      "photo": "https://images.app.goo.gl/8g8p1vehL19bGCVC8"
+    },
+    {
+      "title": "Semua Aku Dirayakan",
+      "duration": "5:10",
+      "release_year": 2023,
+      "photo": "https://images.app.goo.gl/TvGdnYWwmJYoptRU8"
+    },
+    {
+      "title": "Kekal",
+      "duration": "3:31",
+      "release_year": 2023,
+      "photo": "https://images.app.goo.gl/vA8FNeoYz8F5Dpj97"
+    },
+    {
+      "title": "Tapi Diterima",
+      "duration": "5:31",
+      "release_year": 2023,
+      "photo": "https://images.app.goo.gl/TMVp9FA9x1Tyn5JZA"
+    },
+    {
+      "title": "Mendarah",
+      "duration": "4:02",
+      "release_year": 2020,
+      "photo": "https://images.app.goo.gl/vuaoTzPUUU2z4BRj7"
+    },
+    {
+      "title": "Berpayung Tuhan",
+      "duration": "4:00",
+      "release_year": 2023,
+      "photo": "https://images.app.goo.gl/kWgEwkfgDPnAMzL47"
     }
   ]
 }
