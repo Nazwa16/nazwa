@@ -3,64 +3,84 @@
   "album": "Various Singles",
   "songs": [
     {
-      "title": "Bertaut",
+      "title": "Rumpang",
       "duration": "5:23",
       "release_year": 2018,
-      "photo": "https://images.app.goo.gl/V31J7sPKcD1hZ3jU7"
+      "genre": "folk balada",
+      "writer": "Nadin Amizah",
+      "photo": "https://postimage.me/images/2025/06/06/8.jpg"
     },
     {
       "title": "Seperti Tulang",
       "duration": "3:26",
       "release_year": 2019,
-      "photo": "https://images.app.goo.gl/2PVQCpqYFTZ8wuJn9"
+      "genre": "folk balada",
+      "writer": "Nadin Amizah",
+      "photo": "https://postimage.me/images/2025/06/06/6.jpg"
     },
     {
-      "title": "Bertaut",
+      "title": "Rumpang",
       "duration": "5:16",
       "release_year": 2020,
-      "photo": "https://images.app.goo.gl/rew2QVSaHXmxriNw9"
+      "genre": "folk",
+      "writer": "Nadin Amizah, Mikha Angelo, dan Zulqi Lael Ramadhana",
+      "photo": "https://postimage.me/images/2025/06/06/7.jpg"
     },
     {
       "title": "Sorai",
       "duration": "4:22",
       "release_year": 2019,
-      "photo": "https://images.app.goo.gl/CVoAQY6Kubvap9DD8"
+      "genre": "indie pop",
+      "writer": "Nadin Amizah",
+      "photo": "https://postimage.me/images/2025/06/06/9.jpg"
     },
     {
       "title": "Taruh",
       "duration": "4:09",
       "release_year": 2020,
-      "photo": "https://images.app.goo.gl/8g8p1vehL19bGCVC8"
+      "genre": "pop",
+      "writer": "Nadin Amizah, Dissa Kamajaya, dan Doni Marpaung",
+      "photo": "https://postimage.me/images/2025/06/06/10.jpg"
     },
     {
       "title": "Semua Aku Dirayakan",
       "duration": "5:10",
       "release_year": 2023,
-      "photo": "https://images.app.goo.gl/TvGdnYWwmJYoptRU8"
+      "genre": "pop",
+      "writer": "Nadin Amizah dan Ramadhan Zulqi",
+      "photo": "https://postimage.me/images/2025/06/06/14a49588d1f252d97.jpg"
     },
     {
       "title": "Kekal",
       "duration": "3:31",
       "release_year": 2023,
-      "photo": "https://images.app.goo.gl/vA8FNeoYz8F5Dpj97"
+      "genre": "pop",
+      "writer": "Nadin Amizah",
+      "photo": "https://postimage.me/images/2025/06/06/2a81267bca9bbc2be.jpg"
     },
     {
       "title": "Tapi Diterima",
       "duration": "5:31",
       "release_year": 2023,
-      "photo": "https://images.app.goo.gl/TMVp9FA9x1Tyn5JZA"
+      "genre": "pop folk",
+      "writer": "Nadin Amizah",
+      "photo": "https://postimage.me/images/2025/06/06/364198a22e035ca4d.jpg"
     },
     {
       "title": "Mendarah",
       "duration": "4:02",
       "release_year": 2020,
-      "photo": "https://images.app.goo.gl/vuaoTzPUUU2z4BRj7"
+      "genre": "pop",
+      "writer": "Nadin Amizah dan Zulqi L Ramadhana",
+      "photo": "https://postimage.me/images/2025/06/06/49acf346238757418.jpg"
     },
     {
       "title": "Berpayung Tuhan",
       "duration": "4:00",
       "release_year": 2023,
-      "photo": "https://images.app.goo.gl/kWgEwkfgDPnAMzL47"
+      "genre": "pop",
+      "writer": "Nadin Amizah",
+      "photo": "https://postimage.me/images/2025/06/06/5.jpg"
     }
   ]
 }
